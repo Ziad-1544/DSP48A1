@@ -13,5 +13,10 @@ This repository provides insights, examples, and applications of the **DSP48A1**
 - **Example Testbenches**
 - **Optimization Techniques**
 - **Application Use Cases**
+- **Test Benches**: Includes multiple test benches to validate DSP48A1 functionality, covering various configurations such as:
+  - Register activation and resets
+  - B input selection
+  - Multiplication and M_REG functionality
+  - Carry-in selection and mux configurations
 
 Perfect for **FPGA designers, DSP engineers, and researchers** looking to leverage **DSP48A1** in high-performance applications.
